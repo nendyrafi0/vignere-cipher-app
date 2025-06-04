@@ -50,18 +50,6 @@ Aplikasi web sederhana untuk melakukan **enkripsi** dan **dekripsi** teks menggu
 
 ---
 
-## 📂 Struktur Folder
-bash
-vigenere-cipher-app/
-├── backend/
-│   ├── app.py
-│   └── vigenere.py
-├── frontend/
-│   └── src/
-│       └── App.js
----
----
-
 ## 🔐 Tentang Vigenère Cipher
 Vigenère Cipher adalah salah satu metode klasik dalam kriptografi yang menggunakan kunci huruf untuk mengenkripsi dan mendekripsi pesan. Teknik ini dianggap sebagai penyempurnaan dari Caesar Cipher.
 
