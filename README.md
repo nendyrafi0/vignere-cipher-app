@@ -31,21 +31,24 @@ Aplikasi web sederhana untuk melakukan **enkripsi** dan **dekripsi** teks menggu
 ## 🖥️ Cara Menjalankan Aplikasi
 
 ### 1. Clone Repository
-git clone https://github.com/nendyrafi0/vigenere-cipher-app.git
-cd vigenere-cipher-app
+- git clone https://github.com/nendyrafi0/vigenere-cipher-app.git
+- cd vigenere-cipher-app
 
 ### 2. Jalankan Backend (Flask)
-cd backend
-pip install flask flask-cors
-python app.py
+- cd backend
+- pip install flask flask-cors
+- python app.py
 
-Server akan berjalan di: http://127.0.0.1:5000
+#### Server akan berjalan di: http://127.0.0.1:5000
 
 ### 3. Jalankan Frontend (React)
-cd frontend
-npm install
-npm run dev
-Buka browser dan akses: http://localhost:5173
+- cd frontend
+- npm install
+- npm run dev
+
+#### Buka browser dan akses: http://localhost:5173
+
+--
 
 ## 📂 Struktur Folder
 vigenere-cipher-app/
@@ -56,10 +59,12 @@ vigenere-cipher-app/
 │   └── src/
 │       └── App.js
 
-🔐 Tentang Vigenère Cipher
+--
+
+## 🔐 Tentang Vigenère Cipher
 Vigenère Cipher adalah salah satu metode klasik dalam kriptografi yang menggunakan kunci huruf untuk mengenkripsi dan mendekripsi pesan. Teknik ini dianggap sebagai penyempurnaan dari Caesar Cipher.
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 Dibuat oleh Kelompok Tujuh
 Mata Kuliah Kriptografi
 Universitas Bina Sarana Informatika – 2025
