@@ -51,14 +51,15 @@ Aplikasi web sederhana untuk melakukan **enkripsi** dan **dekripsi** teks menggu
 ---
 
 ## 📂 Struktur Folder
-"vigenere-cipher-app/
+bash
+vigenere-cipher-app/
 ├── backend/
 │   ├── app.py
 │   └── vigenere.py
 ├── frontend/
 │   └── src/
 │       └── App.js
-"
+---
 ---
 
 ## 🔐 Tentang Vigenère Cipher
